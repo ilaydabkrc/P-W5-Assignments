@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Week5\Week5_kapanis\bin\Debug\net6.0\Week5_kapanis.exe
+C:\Users\PC\source\repos\Week5\Week5_kapanis\bin\Debug\net6.0\Week5_kapanis.deps.json
+C:\Users\PC\source\repos\Week5\Week5_kapanis\bin\Debug\net6.0\Week5_kapanis.runtimeconfig.json
+C:\Users\PC\source\repos\Week5\Week5_kapanis\bin\Debug\net6.0\Week5_kapanis.dll
+C:\Users\PC\source\repos\Week5\Week5_kapanis\bin\Debug\net6.0\Week5_kapanis.pdb
+C:\Users\PC\source\repos\Week5\Week5_kapanis\obj\Debug\net6.0\Week5_kapanis.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Week5\Week5_kapanis\obj\Debug\net6.0\Week5_kapanis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Week5\Week5_kapanis\obj\Debug\net6.0\Week5_kapanis.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Week5\Week5_kapanis\obj\Debug\net6.0\Week5_kapanis.AssemblyInfo.cs
+C:\Users\PC\source\repos\Week5\Week5_kapanis\obj\Debug\net6.0\Week5_kapanis.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Week5\Week5_kapanis\obj\Debug\net6.0\Week5_kapanis.dll
+C:\Users\PC\source\repos\Week5\Week5_kapanis\obj\Debug\net6.0\refint\Week5_kapanis.dll
+C:\Users\PC\source\repos\Week5\Week5_kapanis\obj\Debug\net6.0\Week5_kapanis.pdb
+C:\Users\PC\source\repos\Week5\Week5_kapanis\obj\Debug\net6.0\Week5_kapanis.genruntimeconfig.cache
+C:\Users\PC\source\repos\Week5\Week5_kapanis\obj\Debug\net6.0\ref\Week5_kapanis.dll
