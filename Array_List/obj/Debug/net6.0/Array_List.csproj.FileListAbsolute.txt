@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Week5\Array_List\bin\Debug\net6.0\Array_List.exe
+C:\Users\PC\source\repos\Week5\Array_List\bin\Debug\net6.0\Array_List.deps.json
+C:\Users\PC\source\repos\Week5\Array_List\bin\Debug\net6.0\Array_List.runtimeconfig.json
+C:\Users\PC\source\repos\Week5\Array_List\bin\Debug\net6.0\Array_List.dll
+C:\Users\PC\source\repos\Week5\Array_List\bin\Debug\net6.0\Array_List.pdb
+C:\Users\PC\source\repos\Week5\Array_List\obj\Debug\net6.0\Array_List.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Week5\Array_List\obj\Debug\net6.0\Array_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Week5\Array_List\obj\Debug\net6.0\Array_List.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Week5\Array_List\obj\Debug\net6.0\Array_List.AssemblyInfo.cs
+C:\Users\PC\source\repos\Week5\Array_List\obj\Debug\net6.0\Array_List.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Week5\Array_List\obj\Debug\net6.0\Array_List.dll
+C:\Users\PC\source\repos\Week5\Array_List\obj\Debug\net6.0\refint\Array_List.dll
+C:\Users\PC\source\repos\Week5\Array_List\obj\Debug\net6.0\Array_List.pdb
+C:\Users\PC\source\repos\Week5\Array_List\obj\Debug\net6.0\Array_List.genruntimeconfig.cache
+C:\Users\PC\source\repos\Week5\Array_List\obj\Debug\net6.0\ref\Array_List.dll
